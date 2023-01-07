@@ -1,0 +1,18 @@
+{
+  "name": "sass",
+  "version": "1.0.0",
+  "description": "cool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "armel"
+  },
+  "keywords": [
+    "123"
+  ],
+  "author": "elom",
+  "license": "ISC"
+}
